@@ -1,0 +1,19 @@
+# Node.js dependencies and logs
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+/build
+.vscode/
+
