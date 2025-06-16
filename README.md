@@ -1,4 +1,4 @@
-# CGS Backend Service
+# Backend Service
 
 A secure, containerized Node.js/Express backend API with JWT authentication, PostgreSQL integration, and several security enhancements.
 
